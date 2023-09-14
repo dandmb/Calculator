@@ -16,7 +16,7 @@ import androidx.compose.ui.unit.sp
 fun CalculatorButton(
     symbol: String,
     modifier: Modifier,
-    sizeFont: Int = 36,
+    sizeFont: Int = 30,
     onClick: () -> Unit
 ) {
     Box(

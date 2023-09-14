@@ -5,6 +5,9 @@ import com.example.calculator.viewmodel.CalculatorViewModel
 import org.junit.Test
 import org.junit.Assert.assertEquals
 
+/**
+ * Will be completed soon
+ */
 class CalculatorViewModelTests {
     private val viewModel = CalculatorViewModel()
 
